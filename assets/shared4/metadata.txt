@@ -1,0 +1,4 @@
+.id shared4
+.requires dex
+.locator_id 12
+shared42.dex 1c917672ebb3982ad4b37d6e22eac89c5e91cf86 storee06f.dex01.Canary

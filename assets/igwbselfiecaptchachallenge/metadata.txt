@@ -1,0 +1,6 @@
+.id igwbselfiecaptchachallenge
+.requires dex
+.requires shared2
+.requires shared4
+.locator_id 10
+igwbselfiecaptchachallenge2.dex 3a6e4789953a4132b2c28a2b8ced079cacdbcdd8 storeb43a.dex01.Canary

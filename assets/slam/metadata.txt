@@ -1,0 +1,4 @@
+.id slam
+.requires dex
+.locator_id 13
+slam2.dex 2f92c6db3da457e243f15141104558e8f5bb254b storee845.dex01.Canary

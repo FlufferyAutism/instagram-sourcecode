@@ -1,0 +1,4 @@
+.id mapbox
+.requires dex
+.locator_id 11
+mapbox2.dex 2fc4963f7eea4e699ef53b43bdb99a93bdd2aca1 store8aef.dex01.Canary
