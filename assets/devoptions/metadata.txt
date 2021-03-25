@@ -1,0 +1,5 @@
+.id devoptions
+.requires dex
+.requires shared4
+.locator_id 9
+devoptions2.dex b74ee15baf13794046f6008efb864425e4d341cb store30e9.dex01.Canary

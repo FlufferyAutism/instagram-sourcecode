@@ -1,0 +1,4 @@
+.id arclassBenchmarks
+.requires dex
+.locator_id 1
+arclassBenchmarks2.dex ae7be0b8af1f21d1bcc134ab1309c3f848e9cf96 store1a5d.dex01.Canary

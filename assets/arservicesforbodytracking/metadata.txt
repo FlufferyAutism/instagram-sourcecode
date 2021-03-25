@@ -1,0 +1,6 @@
+.id arservicesforbodytracking
+.requires caffe2
+.requires dex
+.requires shared0
+.locator_id 2
+arservicesforbodytracking2.dex f8e55ad2d9bf6a1170faceb9205e4f0a0662b7dc store7233.dex01.Canary

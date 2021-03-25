@@ -1,0 +1,5 @@
+.id arservicesfortargettracking
+.requires dex
+.requires shared2
+.locator_id 6
+arservicesfortargettracking2.dex 8223465cdb03d860ff8de96cef4473169056e3cd storebca2.dex01.Canary

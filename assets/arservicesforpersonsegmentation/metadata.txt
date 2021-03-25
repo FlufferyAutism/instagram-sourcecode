@@ -1,0 +1,5 @@
+.id arservicesforpersonsegmentation
+.requires dex
+.requires shared1
+.locator_id 5
+arservicesforpersonsegmentation2.dex 0bedf03c2b88d33a6668b8fe42bfc707caba6078 store77d1.dex01.Canary

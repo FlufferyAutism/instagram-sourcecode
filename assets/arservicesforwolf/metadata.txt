@@ -1,0 +1,5 @@
+.id arservicesforwolf
+.requires dex
+.requires shared3
+.locator_id 8
+arservicesforwolf2.dex c25bd40b3f1c7a99c4b28c0b62a361a093441418 store1c2c.dex01.Canary

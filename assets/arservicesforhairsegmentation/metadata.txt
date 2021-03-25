@@ -1,0 +1,6 @@
+.id arservicesforhairsegmentation
+.requires caffe2
+.requires dex
+.requires shared1
+.locator_id 3
+arservicesforhairsegmentation2.dex fe0d82971d16e8556b294012444297fc2549c266 store7f5e.dex01.Canary
