@@ -1,0 +1,122 @@
+[
+  {
+    "disabled": false,
+    "hash": "d8e196a45bbad00a71a81977abc8aa641fd2ab4954bedfea8ffd9a2153647aa1",
+    "name": "arclassBenchmarks",
+    "path": "arclassBenchmarks.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "1f8af0a0f027a81e55395c6c19375eb554375cc6b9f4c9511c36681e792d7c5d",
+    "name": "arservicesforbodytracking",
+    "path": "arservicesforbodytracking.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "8ea69b94ef446d804a2b1fbef7f35df8af943f9fc3120702297b43845c44b2e3",
+    "name": "arservicesforhairsegmentation",
+    "path": "arservicesforhairsegmentation.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "9fbe7002031ab7541919b4449c5ff7a8a29e430225157812b63df7dc1ca8de65",
+    "name": "arservicesforhandtracking",
+    "path": "arservicesforhandtracking.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "abe300aeb4cc886a2eb972a8fdcfcc5ebc4d0f25901a9b31edf535371c7cccff",
+    "name": "arservicesforpersonsegmentation",
+    "path": "arservicesforpersonsegmentation.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "f46f676e350ee9aa9c81a419eae1bf31747b795004febfd5450a4e7b9a5576d2",
+    "name": "arservicesfortargettracking",
+    "path": "arservicesfortargettracking.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "c198e253c3c8506c69366ab71b5f9c89c54dc78b995994cd6cf8bcb22ecf5b3a",
+    "name": "arservicesforunifiedtargettracking",
+    "path": "arservicesforunifiedtargettracking.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "140e26290cb1d74ecbb1cd3ce425e4318f7a801af1a8132d8c7155299aae66c4",
+    "name": "arservicesforwolf",
+    "path": "arservicesforwolf.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "94d0a9c6736fdc12633330dfe213236c563f520a9381890bdbf0192a30e1f7d1",
+    "name": "caffe2",
+    "path": "caffe2.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "8274cd7c32ac22be483b82174c050f414403d84e142954511fd8d84d19298e4b",
+    "name": "caffe2pytorchsharedmodule",
+    "path": "caffe2pytorchsharedmodule.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "94e8946f5e2fbf164d4e6725b480266e43302bb614a5289c75bf56655bd0f97b",
+    "name": "devoptions",
+    "path": "devoptions.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "0678309f690eebedf59c8609b696a1ccdd57973f67fcb33210baf2ac91508f5c",
+    "name": "igwbselfiecaptchachallenge",
+    "path": "igwbselfiecaptchachallenge.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "2254f6b6b57fee94fa6c51a9dcafff35f57457f2a5e8c0203e562be1becdedf8",
+    "name": "mapbox",
+    "path": "mapbox.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "4c38c926c7148c8a6dc4526c10fbe641d84a70d320e913d1cd1b367823ea325e",
+    "name": "pytorch",
+    "path": "pytorch.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "b4752bbee7b7f9c950880cc1c1c97f835b7c94302b2ce76af96b8ac154878660",
+    "name": "shared0",
+    "path": "shared0.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "c5c429b8a98c5b7d0fcf25b8d00f82f3788434f276528c0499ceeb4364df8943",
+    "name": "shared1",
+    "path": "shared1.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "ac64ad7572f066c31f19e8ee4fa2a486eb58541625da430db06b0663097bfd84",
+    "name": "shared2",
+    "path": "shared2.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "b9dec49c68d9d3c7cc245eb9d5435d4705e41bb0f2f1d462f2a43dc9bcf1d2fe",
+    "name": "shared3",
+    "path": "shared3.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "d2f04292113e7e89147e69e974ea45b21ddcfacb6c151e2520a9bd8e951b0e08",
+    "name": "shared4",
+    "path": "shared4.apk"
+  },
+  {
+    "disabled": false,
+    "hash": "7515a4d683a3b2145b6e0c7a881e4b3050661742fda52dff201044549b3e1e01",
+    "name": "slam",
+    "path": "slam.apk"
+  }
+]
